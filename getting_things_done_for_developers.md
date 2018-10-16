@@ -1,27 +1,51 @@
 # Objectives
 
-## By the end of the conference talk, attendees will be able to...
+## Topics
 
-- [ ] Describe what time management means
-- [ ] Be able to create their time management system
+- [ ] Why do you want a todo system?
+- [ ] The parts of a todo system
 
-## Introduction to Time Management for people who don't have time to manage their time
+## Why a todo system?
 
-- [ ] Where are we?
-  - [ ] To do lists
-  - [ ] To do lists for our to do lists
-  - [ ] Gettings of things done
-  - [ ] We still feel like we aren't getting anything done
-- [ ] Why do we even want to get things done?
+Keep on asking why until we get to the root of the matter
+
+- I want to get stuff done
+- if I don't get stuff done then I'll die
+- Because the bills would not get payed
+
+Do we need a system just to pay the bills and survive
+
+- No, I want to get things done that move me towards my goals
+
+### Goals
+
+Life goals
+
+Work goals
+
+micro goals
+
+### tracking progress
+
+metrics
+
+When a measure becomes a target, it ceases to be a good measure -  Charles Goodhart
+
+when a feature of the economy is picked as an indicator of the economy, then it inexorably ceases to function as that indicator because people start to game it - Charles Goodhart
+
+- velocity (story points averages per sprint)
+- pomodoros completed on average per week
+- number of items completed on average per week
+- lines of code written
+- Tickets completed
+- emotional state and the end of each day
+
+Keep emotion out of the measurements, its really only to help in the retro to see if a change to the system had an effect
 
 ## Creating your own time management system
 
-- [ ] Do even need a time management system?
-  - [ ] Are we getting what we want to get done?
-  - [ ] Do you know if you are moving forwards?
 - [ ] Phases of a time management system
   - [ ] Collection
-    - [ ] What kinds of fun do we want in our lives?
   - [ ] Process the inbox items
     - [ ] How urgent is this item?
     - [ ] Why do we want to complete this item?
@@ -38,3 +62,5 @@
   - [ ] Getting it all done
     - [ ] Timeboxing
     - [ ] ...
+  - [ ] Retro the day
+  - [ ] Retro the sprint
