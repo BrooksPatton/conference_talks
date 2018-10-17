@@ -64,3 +64,62 @@ Keep emotion out of the measurements, its really only to help in the retro to se
     - [ ] ...
   - [ ] Retro the day
   - [ ] Retro the sprint
+
+  # talk walkthrough
+
+  - Objectives
+    - organize what you want to get done
+    - managing time
+
+  - good morning!
+  - Who am I?
+    - Brooks
+    - NASA
+    - Software devoper
+    - Galvanize
+    - Apto
+
+  - Objectives
+    - the system
+    - retroing
+    - meetings
+    - having fun
+    - breaks
+
+  - 6 developers
+  - personal / at work todo systems
+    - agile / scrum
+    - product owner managing what needs to be done
+    - in what order
+
+    - propose bringing the product owner system back home
+    - managing the todo list
+    - creating epics
+    - only showing what we want to work on
+
+    - retro is super important
+  - home agile methods
+    - just in time
+    - kanban
+    - home scrum
+
+  - time management
+    - handling interruptions
+    - flow state
+    - meetings
+    - breaks
+    - how important is fun?
+
+  - conclusion
+    - the simpler the interface when doing, the better
+    - always retro
+    - create a system at home
+    - meetings aren't always bad
+    - have fun
+    - take breaks
+    - never stop improving
+
+  
+
+- organizing what we want to get done
+- manage time
