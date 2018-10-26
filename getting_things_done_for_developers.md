@@ -104,8 +104,8 @@ Keep emotion out of the measurements, its really only to help in the retro to se
     - home scrum
 
   - time management
-    - handling interruptions
     - flow state
+    - handling interruptions
     - meetings
     - breaks
     - how important is fun?
